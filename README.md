@@ -73,10 +73,6 @@ UI: Java Swing
 
 ⚙️ Installation & Setup
 
-Clone the repository
-
-git clone https://github.com/your-username/your-repo.git
-
 
 Install dependencies (Python)
 
